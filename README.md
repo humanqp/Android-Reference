@@ -1,5 +1,5 @@
 # Android-Reference
->### Device Key
+>### Device Key : http://boxfoxs.tistory.com/269
 ```
 public class MainActivity extends Activity {
  
