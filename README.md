@@ -1,5 +1,6 @@
 # Android-Reference
->### Device Key : http://boxfoxs.tistory.com/269
+>### Device Key 
+- 안드로이드 기기 식별 방법 : http://boxfoxs.tistory.com/269
 ```
 public class MainActivity extends Activity {
  
